@@ -1,7 +1,0 @@
----
-# Default variables for Vector
-vector_config_dir: /etc/vector
-vector_config_file: vector.toml
-vector_log_sources:
-  - /var/log/clickhouse-server/*.log
-vector_output_path: /var/log/vector/collected.log

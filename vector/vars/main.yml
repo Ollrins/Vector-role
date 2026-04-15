@@ -1,4 +1,0 @@
----
-# High priority variables for Vector
-vector_setup_script_url: https://setup.vector.dev
-vector_service_name: vector
